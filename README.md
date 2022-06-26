@@ -2,11 +2,11 @@
 <ul>
   <li> 🔭 I’m currently working on <b>React's Courses</b> </li>
 
-  <li> 🌱 I’m currently learning **JS, React and .NET** </li>
+  <li> 🌱 I’m currently learning <b>JS, React and .NET</b> </li>
 
-  <li> 📫 How to reach me **w.krolik00@gmail.com** </li>
+  <li> 📫 How to reach me <b>w.krolik00@gmail.com</b> </li>
 
-  <li> ⚡ Fun fact **I love comics** </li>
+  <li> ⚡ Fun fact <b>I love comics</b> </li>
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
