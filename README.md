@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Wojtek</h1>
-- 🔭 I’m currently working on **React's Courses**
+<ol>
+  <li> 🔭 I’m currently working on **React's Courses** </li>
 
-- 🌱 I’m currently learning **JS, React and .NET**
+  <li> 🌱 I’m currently learning **JS, React and .NET** </li>
 
-- 📫 How to reach me **w.krolik00@gmail.com**
+  <li> 📫 How to reach me **w.krolik00@gmail.com** </li>
 
-- ⚡ Fun fact **I love comics**
-
+  <li> ⚡ Fun fact **I love comics** </li>
+</ol>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wojciechkrolik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wojciechkrolik" height="30" width="40" /></a>
