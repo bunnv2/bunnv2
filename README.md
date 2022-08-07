@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wojtek</h1>
 <ul>
-  <li> 🔭 I’m currently working on <b>NodeJS web application</b> </li>
+  <li> 🔭 I’m currently working on <b>Server side of the game</b> </li>
 
   <li> 🌱 I’m currently learning <b>JS, Express, React and .NET</b> </li>
 
