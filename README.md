@@ -2,7 +2,7 @@
 <ul>
   <li> 🔭 I’m currently working on <b>Server side of the game</b> </li>
 
-  <li> 🌱 I’m currently learning <b>JS, Express, React and .NET</b> </li>
+  <li> 🌱 I’m currently learning <b>TS, Express, React and UE5</b> </li>
 
   <li> 📫 How to reach me <b>w.krolik00@gmail.com</b> </li>
 
