@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Wojtek</h1>
 <ul>
-  <li> 🔭 I’m currently working on <b>Server side of the game</b> </li>
+  <li> 🔭 I’m currently working on personal project which is <b>rogue-like game</b> </li>
 
-  <li> 🌱 I’m currently learning <b>TS, Express, React and UE5</b> </li>
+  <li> 🌱 I’m currently learning <b>UE5, Godot and advanced concepts in NodeJS</b> </li>
 
   <li> 📫 How to reach me <b>w.krolik00@gmail.com</b> </li>
 
-  <li> ⚡ Fun fact <b>I love comics</b> </li>
+  <li> ⚡ Fun fact <b>I love comics and mangas</b> </li>
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
