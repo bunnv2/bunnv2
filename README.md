@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wojtek</h1>
 <ul>
-  <li> 🔭 I’m currently working on personal project which is <b>rogue-like game</b> </li>
+  <li> 🔭 I’m currently working on personal project which is <b>rogue-like game</b> and TPP game in UE5</li>
 
   <li> 🌱 I’m currently learning <b>UE5, Godot and advanced concepts in NodeJS</b> </li>
 
